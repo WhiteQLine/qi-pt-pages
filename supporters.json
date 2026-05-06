@@ -1,16 +1,53 @@
 {
-  "updatedAt": "2026-05-06T15:00:05.149Z",
+  "updatedAt": "2026-05-06T10:00:03.193Z",
   "tiers": {
-    "spark": [],
-    "halo": [],
-    "crown": [
-      "齊 iii"
+    "spark": [
+      "Lumine_02",
+      "一只大白猫",
+      "SleepyPanda",
+      "碳烤小肥羊",
+      "Rainy_Day",
+      "水镜Master"
     ],
-    "zenithPlus": [],
-    "zenithPlusPlus": [],
-    "zenithPlusPlusPlus": []
+    "halo": [
+      "Aether_Dev",
+      "幻影坦克",
+      "Neon_Whisper",
+      "不吃香菜的猫"
+    ],
+    "crown": [
+      "齊 iii",
+      "Sora_Cloud",
+      "星野之梦"
+    ],
+    "zenithPlus": [
+      "CyberGlitch",
+      "月下漫步者"
+    ],
+    "zenithPlusPlus": [
+      "Alpha_Zero"
+    ],
+    "zenithPlusPlusPlus": [
+      "Eternal_Radiance"
+    ]
   },
   "allSupporters": [
-    "齊 iii"
+    "齊 iii",
+    "Lumine_02",
+    "一只大白猫",
+    "SleepyPanda",
+    "碳烤小肥羊",
+    "Rainy_Day",
+    "水镜Master",
+    "Aether_Dev",
+    "幻影坦克",
+    "Neon_Whisper",
+    "不吃香菜的猫",
+    "Sora_Cloud",
+    "星野之梦",
+    "CyberGlitch",
+    "月下漫步者",
+    "Alpha_Zero",
+    "Eternal_Radiance"
   ]
 }
