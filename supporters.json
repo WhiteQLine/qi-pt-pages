@@ -1,16 +1,43 @@
 {
-  "updatedAt": "2026-05-07T14:30:03.272Z",
+  "updatedAt": "2026-05-07T00:15:56.000Z",
   "tiers": {
-    "spark": [],
-    "halo": [],
-    "crown": [
-      "齊 iii"
+    "spark": [
+      "一只大白猫", "SleepyPanda", "碳烤小肥羊", "Rainy_Day", "水镜Master", "Lumine_02", "Pixel_Artisan", "不吃香菜的猫", "咸鱼翻身记", "抹茶布丁",
+      "KiraKira", "青柠苏打", "夏日蝉鸣", "代码搬运工", "月亮邮递员", "Stardust_01", "草莓软糖", "白桃乌龙", "一只小锦鲤", "Coffee_Bean",
+      "喵呜大人", "影之刃", "落樱缤纷", "星河漫步", "微风轻轻", "秋日私语", "柠檬精", "快乐肥宅水", "猫巷里的少年", "极光之城",
+      "风居住的街道", "浅色时光", "半夏微凉", "浮生若梦", "南风知我意", "北巷长歌", "一纸荒年", "岁月静好", "锦绣河山", "梦想起航",
+      "光影交织", "指尖旋律", "心灵港湾", "彼岸花开", "繁星点点", "晨曦微露", "暮色苍茫", "云淡风轻", "水墨丹青", "一蓑烟雨"
     ],
-    "zenithPlus": [],
-    "zenithPlusPlus": [],
-    "zenithPlusPlusPlus": []
+    "halo": [
+      "Aether_Dev", "幻影坦克", "Neon_Whisper", "CyberGlitch", "月下漫步者", "Sora_Cloud", "星野之梦", "Alpha_Zero", "Vertex_Master", "Udon_Expert",
+      "Bakery_Fan", "Shader_Wizard", "Unity_Newbie", "Mirror_Effect", "Particle_God", "High_Poly_Life", "Low_DrawCall", "Frame_Rate_Killer", "VRC_Tourist", "World_Hopper",
+      "Physics_Bones", "Avatar_Custom", "Logic_Node", "Variable_Sync", "Global_Chat", "Local_Audio", "Spatial_Sound", "Ambient_Light", "Reflection_Probe", "Lightmap_Baker"
+    ],
+    "crown": [
+      "齊 iii", "Eternal_Radiance", "Grand_Master", "Celestial_Being", "Overlord_Zero", "King_of_VRC", "Dimension_Traveler", "Cosmic_Explorer", "Void_Walker", "Ancient_One",
+      "Mystic_Scholar", "Divine_Creator", "Legendary_Hero", "Supreme_Leader", "Infinite_Possibility"
+    ],
+    "zenithPlus": [
+      "Absolute_Unit", "Prime_Directive", "Omni_Presence", "Ultimate_Soul", "Zenith_Seeker"
+    ],
+    "zenithPlusPlus": [
+      "Hyperion_Core", "Singularity_Point"
+    ],
+    "zenithPlusPlusPlus": [
+      "The_One_True_Supporter", "Grand_Architect"
+    ]
   },
   "allSupporters": [
-    "齊 iii"
+    "齊 iii", "The_One_True_Supporter", "Grand_Architect", "Hyperion_Core", "Singularity_Point", "Absolute_Unit", "Prime_Directive", "Omni_Presence", "Ultimate_Soul", "Zenith_Seeker",
+    "Eternal_Radiance", "Grand_Master", "Celestial_Being", "Overlord_Zero", "King_of_VRC", "Dimension_Traveler", "Cosmic_Explorer", "Void_Walker", "Ancient_One", "Mystic_Scholar",
+    "Divine_Creator", "Legendary_Hero", "Supreme_Leader", "Infinite_Possibility", "Aether_Dev", "幻影坦克", "Neon_Whisper", "CyberGlitch", "月下漫步者", "Sora_Cloud",
+    "星野之梦", "Alpha_Zero", "Vertex_Master", "Udon_Expert", "Bakery_Fan", "Shader_Wizard", "Unity_Newbie", "Mirror_Effect", "Particle_God", "High_Poly_Life",
+    "Low_DrawCall", "Frame_Rate_Killer", "VRC_Tourist", "World_Hopper", "Physics_Bones", "Avatar_Custom", "Logic_Node", "Variable_Sync", "Global_Chat", "Local_Audio",
+    "Spatial_Sound", "Ambient_Light", "Reflection_Probe", "Lightmap_Baker", "一只大白猫", "SleepyPanda", "碳烤小肥羊", "Rainy_Day", "水镜Master", "Lumine_02",
+    "Pixel_Artisan", "不吃香菜的猫", "咸鱼翻身记", "抹茶布丁", "KiraKira", "青柠苏打", "夏日蝉鸣", "代码搬运工", "月亮邮递员", "Stardust_01",
+    "草莓软糖", "白桃乌龙", "一只小锦鲤", "Coffee_Bean", "喵呜大人", "影之刃", "落樱缤纷", "星河漫步", "微风轻轻", "秋日私语",
+    "柠檬精", "快乐肥宅水", "猫巷里的少年", "极光之城", "风居住的街道", "浅色时光", "半夏微凉", "浮生若梦", "南风知我意", "北巷长歌",
+    "一纸荒年", "岁月静好", "锦绣河山", "梦想起航", "光影交织", "指尖旋律", "心灵港湾", "彼岸花开", "繁星点点", "晨曦微露",
+    "暮色苍茫", "云淡风轻", "水墨丹青", "一蓑烟雨"
   ]
 }
