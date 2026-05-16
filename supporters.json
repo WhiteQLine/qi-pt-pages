@@ -1,16 +1,12 @@
 {
-  "updatedAt": "2026-05-16T17:00:02.600Z",
+  "updatedAt": "2026-05-16T17:15:02.992Z",
   "tiers": {
     "spark": [],
     "halo": [],
-    "crown": [
-      "齊 iii"
-    ],
+    "crown": [],
     "zenithPlus": [],
     "zenithPlusPlus": [],
     "zenithPlusPlusPlus": []
   },
-  "allSupporters": [
-    "齊 iii"
-  ]
+  "allSupporters": []
 }
